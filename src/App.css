@@ -1,0 +1,22 @@
+*
+{
+font-size: 40px;
+font-family: Arial, 'Segoe UI';
+}
+
+body
+{
+background-color: lightblue;
+}
+
+textarea
+{
+resize: None;
+}
+
+.mysidenav
+{
+  background-color: black!important;
+  font-family: Arial;
+  font-size: 20px;
+}
